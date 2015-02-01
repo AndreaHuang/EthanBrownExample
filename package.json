@@ -1,0 +1,27 @@
+{
+  "name": "EthanBrownExample",
+  "version": "1.0.0",
+  "description": "EthaBrown's book example",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AndreaHuang/EthanBrownExample"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Andrea Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaHuang/EthanBrownExample/issues"
+  },
+  "homepage": "https://github.com/AndreaHuang/EthanBrownExample",
+  "dependencies": {
+    "express": "^4.11.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
